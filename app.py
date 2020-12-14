@@ -21,7 +21,7 @@ def hello():
 <h3>Contacts</h3>
   <li>
     <ul>
-      <li>me@melbadry9.xyz)</li>
+      <li>me@melbadry9.xyz</li>
       <li>https://hackerone.com/melbadry9</li>
       <li>https://twitter.com/_melbadry9</li>
     </ul>
